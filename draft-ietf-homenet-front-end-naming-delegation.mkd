@@ -339,7 +339,7 @@ example.com  +-----------------------+   +-----------------------+
                                                |    DNSSEC Resolver    |
                                                |                       |
                                                +-----------------------+
-~~~                                
+~~~
 {: #fig-naming-arch title="Homenet Naming Architecture Description" }
 
 The Outsourcing Infrastructure is described in {{fig-auth-servers}}. The
@@ -1134,4 +1134,7 @@ of Registered Homenet Domain becomes quite large.
 -->)
 
 
+
+Diagram text stuff
+------------------
 
